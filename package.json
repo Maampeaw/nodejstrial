@@ -13,6 +13,8 @@
   "author": "Mcgenius",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.2",
+    "mathjs": "^10.0.2",
     "nodemon": "^2.0.15"
   }
 }
